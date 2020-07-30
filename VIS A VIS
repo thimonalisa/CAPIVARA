@@ -12,7 +12,7 @@ MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
 <item>
 <title>[B]EP 01[/B]</title>
-<link>plugin://plugin.video.Google Drive?mode=streamURL&amp;url=https://drive.google.com/file/d/19GSqulqwX97sMYTDXChaj9qIOpxl_A6O/view?usp=sharing</link>
+<link>plugin://plugin.video.GoogleDrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19GSqulqwX97sMYTDXChaj9qIOpxl_A6O/view?usp=sharing</link>
 <thumbnail>https://universoestendido.com.br/wp-content/uploads/2019/08/vis-a-vis-1a%E2%80%8B-temporada.jpg</thumbnail>
 <fanart>https://s.aficionados.com.br/imagens/tudo-sobre-vis-a-vis-a-serie-espanhola-da-netflix_f.jpg</fanart>
 <info></info>
